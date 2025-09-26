@@ -33,7 +33,7 @@ Before running the application, ensure you have the following installed:
 1. **Clone the repository** (or create a new project directory):
 
 ```bash
-git clone <Youtube-Transcript-Fetcher>
+git clone https://github.com/jeevanms003/Youtube-Transcript-Fetcher
 cd Youtube-Transcript-Fetcher
 ```
 
