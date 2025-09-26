@@ -139,7 +139,7 @@ curl "http://localhost:3000/transcript?url=https://www.youtube.com/watch?v=your_
 
 ## API Endpoint
 ```cmd
-- GET /transcript
+GET /transcript
 ```
 ---
 
